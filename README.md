@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Onkar.</h1>
+<!-- <h1 align="center">Hi 👋, I'm Onkar.</h1> -->
+<img src="https://github.com/onkarbk/onkarbk/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarbk&label=Profile%20views&color=0e75b6&style=flat" alt="onkarbk" /> </p>
