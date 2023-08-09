@@ -29,7 +29,7 @@ I specialise in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [twitter-clone](https://github.com/onkarbk/twitter-clone)  
+- 🔭 I’m currently working on [Twitter-Clone](https://github.com/onkarbk/twitter-clone)  
   
 
 - 🌱 I’m currently learning Machine Learning and Data Science  
