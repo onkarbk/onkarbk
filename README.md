@@ -32,13 +32,13 @@ I specialise in building robust backends that do all the heavy lifting for your 
 - 🔭 I’m currently working on [Twitter-Clone](https://github.com/onkarbk/twitter-clone)  
   
 
-- 🌱 I’m currently learning Machine Learning and Data Science  
+- 🌱 I’m interested in building robust scalable products  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ In the next five years I hope to learn everything there is about product development and transition towards product management.   
 
 
 </td><td valign="top" width="50%">
